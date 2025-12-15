@@ -10,21 +10,13 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@radix-ui/react-label": "^2.1.0",
-    "@radix-ui/react-slot": "^1.1.1",
-    "@supabase/ssr": "^0.5.1",
     "@supabase/supabase-js": "^2.45.4",
-    "@upstash/ratelimit": "^1.4.2",
-    "@upstash/redis": "^1.36.4",
-    "class-variance-authority": "^0.7.0",
-    "clsx": "^2.1.1",
     "lucide-react": "^0.441.0",
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
     "recharts": "^2.12.7",
     "stripe": "^16.11.0",
-    "tailwind-merge": "^2.5.2",
     "zod": "^3.23.8"
   },
   "devDependencies": {

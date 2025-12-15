@@ -1,4 +1,3 @@
-cat > package.json << 'EOF'
 {
   "name": "maxxclass",
   "version": "1.0.0",
@@ -41,4 +40,3 @@ cat > package.json << 'EOF'
     "typescript": "^5"
   }
 }
-EOF

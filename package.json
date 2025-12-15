@@ -14,8 +14,8 @@
     "@radix-ui/react-slot": "^1.1.1",
     "@supabase/ssr": "^0.5.1",
     "@supabase/supabase-js": "^2.45.4",
-    "@upstash/ratelimit": "^4.0.0",
-    "@upstash/redis": "^1.32.0",
+    "@upstash/ratelimit": "^1.4.2",
+    "@upstash/redis": "^1.36.4",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "lucide-react": "^0.441.0",
@@ -28,7 +28,6 @@
     "zod": "^3.23.8"
   },
   "devDependencies": {
-    "@eslint/eslintrc": "^3.1.0",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
